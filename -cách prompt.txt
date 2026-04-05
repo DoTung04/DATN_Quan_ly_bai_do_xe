@@ -1,0 +1,7 @@
+-cách prompt
+-quy trình phát triển 1 sản phẩm
+- BMAD - method => khó , cồng kềnh < optinal>
+- kiến trúc hệ thống
+
+
+

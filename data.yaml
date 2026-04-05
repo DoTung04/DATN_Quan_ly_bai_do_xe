@@ -1,0 +1,9 @@
+# data.yaml
+path: d:/Tui_Nam4_Ky2/DATN  # Thư mục gốc chứa dataset
+train: images/train  # Đường dẫn tương đối đến thư mục chứa ảnh train
+val: images/val      # Đường dẫn tương đối đến thư mục chứa ảnh validation
+
+# Classes
+names:
+  0: license_plate # Nhãn 0 là biển số xe
+  1: motorcycle    # Nhãn 1 là xe máy
